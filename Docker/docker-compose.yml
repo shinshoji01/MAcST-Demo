@@ -6,4 +6,4 @@ services:
     ports:
       - "3333:80"
     volumes:
-      - ../../ardit-web-main/:/var/www/html
+      - ../:/var/www/html
